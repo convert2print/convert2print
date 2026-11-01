@@ -16,6 +16,13 @@ Convert2Print is an operational platform for professional print preparation.
 
 ![Convert2Print — Professional Prepare workspace](02_Convert2Print_EPWK.jpg)
 
+### Watch the Video Demonstration
+
+See the operational Convert2Print platform in action,
+powered by the deterministic Golden Pipeline.
+
+[▶ Watch the Convert2Print Video Demonstration](https://github.com/convert2print/convert2print-community/discussions/3)
+
 ---
 ## The Golden Pipeline
 
